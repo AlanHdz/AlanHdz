@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alan Hernandez</h1>
 <h3 align="center">A passionate backend developer from Mexico</h3>
 
-- 🔭 I’m currently working on **Energon Solar**
+- 🔭 I’m currently working on **Zenix**
 
 - 🌱 I’m currently learning **Laravel, Vue, Python, and .NET**
 
