@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Zenix**
 
-- 🌱 I’m currently learning **Laravel, Vue, Python, and .NET**
+- 🌱 I’m currently learning **Laravel, Vue, Python, and Ruby**
 
 - 💬 Ask me about **PHP, Javascript and Python.**
 
